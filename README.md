@@ -37,11 +37,23 @@ Our goal is to clarify the input modality of Gemini. GPT-4V's input modality sup
 
 
 ## <img src="./logo/icon_3.png" width="25" /> Demos
+Here we present several examples to illustrate and compare; for more cases (50 cases), please refer to [Demo Examples](./demos/demo_ENG.md). For Chinese version, please refer to [中文解读](./demos/demo_CHN.md).
+
+For all results (108 cases), please refer the [arxiv paper](https://cdn.openai.com/contributions/gpt-4v.pdf).
+
+
+
+### 2.2 Landmark_Recognition
 <img src="./demos/2.2_Landmark_Recognition_1.png" width="1000" />
 
+### 3.3 Chart Text Recognition
+<img src="./demos/3.3_Chart_Text_Recognition_1.png" width="1000" />
+
+### 5.3 Document Understanding And Reasoning
+<img src="./demos/5.3_Document_Understanding_And_Reasoning_1.png" width="1000" />
 
 
-## <img src="./logo/icon_7.png" width="25" /> Sections and Aspects
+## <img src="./logo/icon_7.png" width="25" /> Contents
 
 ### Comparison in 5 aspects：
 ${Section\ 2 \to\ 6 }$ divide the multimodal evaluation into five aspects. The first level involves basic recognition of images and the text within them. The second level goes beyond recognition to require further inference and reasoning. The third level encompasses multimodal comprehension and inference involving multiple images. 
