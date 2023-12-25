@@ -111,3 +111,23 @@ We have conducted a comprehensive comparison of GPT-4V and Gemini's multimodal u
 
 
 In industrial applications, Gemini is outperformed by GPT-4V in **Embodied Agent** and **GUI Navigation**, which is also attributed to Gemini's single-image, non-memory input mode. Combining two large models can leverage their respective strengths. Overall, both Gemini and GPT-4V are powerful and impressive multimodal large models. In terms of overall performance, GPT-4V is slightly stronger than Gemini Pro. This aligns with the results reported by Gemini. We look forward to the release of Gemini Ultra and GPT-4.5, which are expected to bring more possibilities to the field of visual multimodal applications.
+
+## 🔗 Citation
+
+If you find our work helpful, please cite:
+
+```bibtex
+@article{gemini-vs-gpt4v,
+  title={Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases},
+  author={Qi, Zhangyang and Fang, Ye and Zhang, Mengchen and Sun, Zeyi and Wu, Tong and Liu, Ziwei and Lin, Dahua and Wang, Jiaqi and Zhao, Hengshuang},
+  journal={arXiv preprint arXiv:arXivID},
+  year={2023},
+  url={https://arxiv.org/abs/arXivID},
+}
+
+```
+
+## 📄 License
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+<br />
+This work is under the <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
