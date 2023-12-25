@@ -100,14 +100,14 @@ Gemini-vs-GPT4V
 ## <img src="./logo/icon_6.png" width="25" /> Conclusions
 We have conducted a comprehensive comparison of GPT-4V and Gemini's multimodal understanding and reasoning abilities across multiple aspects and have reached the following conclusions:
 
-- $\color{darkgreen}{Image\ Recognition\ and\ Understanding.}$ In basic image recognition tasks, **both models show comparable performance** and are capable of completing the tasks effectively.
-- $\color{darkgreen}{Text\ Recognition\ and\ Understanding\ in\ Images.}$ Both models excel in extracting and recognizing text from images. However, improvements are needed in complex formulas and dashboard recognition. ***Gemini performs better in reading table information***.
-- $\color{darkgreen}{Image\ Inference\ Abilities.}$ In image reasoning, both models excel in common-sense understanding. ***Gemini slightly lags in look-for-pattern compared (IQ Tests) to GPT-4V***. In EQ tests, both understand emotions and have aesthetic judgment.
-- $\color{darkgreen}{Textual\ Inference\ in\ Images.}$ In the field of text reasoning, ***Gemini shows relatively lower performance levels*** when dealing with complex table-based reasoning and mathematical problem-solving tasks. Furthermore, Gemini tends to offer more detailed outputs.
+- $\color{darkgreen}{Image\ Recognition\ and\ Understanding.}$ In basic image recognition tasks, both models show comparable performance and are capable of completing the tasks effectively.
+- $\color{darkgreen}{Text\ Recognition\ and\ Understanding\ in\ Images.}$ Both models excel in extracting and recognizing text from images. However, improvements are needed in complex formulas and dashboard recognition. Gemini performs better in reading table information.
+- $\color{darkgreen}{Image\ Inference\ Abilities.}$ In image reasoning, both models excel in common-sense understanding. Gemini slightly lags in look-for-pattern compared (IQ Tests) to GPT-4V. In EQ tests, both understand emotions and have aesthetic judgment.
+- $\color{darkgreen}{Textual\ Inference\ in\ Images.}$ In the field of text reasoning, Gemini shows relatively lower performance levels when dealing with complex table-based reasoning and mathematical problem-solving tasks. Furthermore, Gemini tends to offer more detailed outputs.
 - $\color{darkgreen}{Integrated\ Image\ and\ Text\ Understanding.}$ In tasks involving complex text and images, Gemini falls behind GPT-4V due to its inability to input multiple images at once, although it performs similarly to GPT-4V in textual reasoning with single images.
-- $\color{darkgreen}{Object\ Localization.}$ Both models perform similarly in real-world object localization, ***with Gemini being slightly less adept at abstract image (tangram) localization.***
+- $\color{darkgreen}{Object\ Localization.}$ Both models perform similarly in real-world object localization, with Gemini being slightly less adept at abstract image (tangram) localization.
 - $\color{darkgreen}{Temporal\ Video\ Understanding.}$ In understanding temporality, Gemini's single-image input mode falls short compared to GPT-4V, especially in the comprehension of sequence.
-- $\color{darkgreen}{Multilingual\ Capabilities.}$ ***Both models exhibit good multilingual recognition***, understanding, and output capabilities, effectively completing multilingual tasks.
+- $\color{darkgreen}{Multilingual\ Capabilities.}$ Both models exhibit good multilingual recognition, understanding, and output capabilities, effectively completing multilingual tasks.
 
 
 In industrial applications, Gemini is outperformed by GPT-4V in **Embodied Agent** and **GUI Navigation**, which is also attributed to Gemini's single-image, non-memory input mode. Combining two large models can leverage their respective strengths. Overall, ***both Gemini and GPT-4V are powerful and impressive multimodal large models***. In terms of overall performance, GPT-4V is slightly stronger than Gemini Pro. This aligns with the results reported by Gemini. We look forward to the release of Gemini Ultra and GPT-4.5, which are expected to bring more possibilities to the field of visual multimodal applications.
