@@ -22,7 +22,7 @@ This paper presents an in-depth **qualitative** comparative study of two pioneer
 
 ## <img src="./logo/icon_1.png" width="25" /> News
 
-🔥 2023/12/26:  We have released the [Arxiv Paper](https://cdn.openai.com/contributions/gpt-4v.pdf) (115 pages), all resultsa are shown in it.
+🔥 2023/12/26:  We have released the [Arxiv Paper](https://cdn.openai.com/contributions/gpt-4v.pdf) (115 pages), all results are shown in it.
 
 
 ## <img src="./logo/Gemini.png" width="25" /> Gemini's Input Modes
