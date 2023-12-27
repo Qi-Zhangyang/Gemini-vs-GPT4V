@@ -129,12 +129,13 @@ In industrial applications, Gemini is outperformed by GPT-4V in **Embodied Agent
 If you find our work helpful, please cite:
 
 ```bibtex
-@article{gemini-vs-gpt4v,
-  title={Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases},
-  author={Qi, Zhangyang and Fang, Ye and Zhang, Mengchen and Sun, Zeyi and Wu, Tong and Liu, Ziwei and Lin, Dahua and Wang, Jiaqi and Zhao, Hengshuang},
-  journal={arXiv preprint arXiv:arXivID},
-  year={2023},
-  url={https://arxiv.org/abs/arXivID},
+@misc{qi2023gemini,
+      title={Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases}, 
+      author={Zhangyang Qi and Ye Fang and Mengchen Zhang and Zeyi Sun and Tong Wu and Ziwei Liu and Dahua Lin and Jiaqi Wang and Hengshuang Zhao},
+      year={2023},
+      eprint={2312.15011},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 
 ```
