@@ -1,9 +1,9 @@
 # Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases
-
+Gemini与GPT-4V：视觉-语言模型的初步比较和结合使用（定性案例研究）
 
 
 ## 🏠 概括
-这篇论文提供了对谷歌的Gemini和OpenAI的GPT-4V(ision)两个SOTA模型的深入定性比较研究。我们的研究涉及到对这两个模型在视觉语言能力、与人类的互动、时间理解以及智力和情感智商等关键维度上的多方面评估。
+这篇论文提供了对谷歌的Gemini和OpenAI的GPT-4V(ision)两个SOTA模型的深入定性比较研究。我们的研究涉及到对这两个模型在视觉语言能力、与人类的互动、时间理解以及智力和情感智商等关键维度上的多方面评估。完整的例子和论文请见[Arxiv Paper](https://arxiv.org/abs/2312.15011) (115 pages)。
 
 
 
@@ -281,12 +281,13 @@ $\color{darkgreen}{多语言能力。}$ 两个模型都展现出良好的多语�
 如果您觉得有用，请引用:
 
 ```bibtex
-@article{gemini-vs-gpt4v,
-  title={Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases},
-  author={Qi, Zhangyang and Fang, Ye and Zhang, Mengchen and Sun, Zeyi and Wu, Tong and Liu, Ziwei and Lin, Dahua and Wang, Jiaqi and Zhao, Hengshuang},
-  journal={arXiv preprint arXiv:arXivID},
-  year={2023},
-  url={https://arxiv.org/abs/arXivID},
+@misc{qi2023gemini,
+      title={Gemini vs GPT-4V: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases}, 
+      author={Zhangyang Qi and Ye Fang and Mengchen Zhang and Zeyi Sun and Tong Wu and Ziwei Liu and Dahua Lin and Jiaqi Wang and Hengshuang Zhao},
+      year={2023},
+      eprint={2312.15011},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 
 ```
