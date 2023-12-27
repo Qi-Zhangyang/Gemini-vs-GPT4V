@@ -22,7 +22,7 @@ This paper presents an in-depth **qualitative** comparative study of two pioneer
 
 ## <img src="./logo/icon_1.png" width="25" /> News
 
-🔥 2023/12/26:  We have released the [Arxiv Paper](https://cdn.openai.com/contributions/gpt-4v.pdf) (115 pages), all results are shown in it.
+🔥 2023/12/26:  We have released the [Arxiv Paper](https://arxiv.org/abs/2312.15011) (115 pages), all results are shown in it.
 
 
 ## <img src="./logo/Gemini.png" width="25" /> Gemini's Input Modes
@@ -39,7 +39,7 @@ Our goal is to clarify the input modality of Gemini. GPT-4V's input modality sup
 ## <img src="./logo/icon_3.png" width="25" /> Demos
 Here we present several examples to illustrate and compare; for more cases (50 cases), please refer to [Demo Examples](./demos/demo_ENG.md). For Chinese version, please refer to [中文解读](./demos/demo_CHN.md).
 
-For all results (108 cases), please refer the [arxiv paper](https://cdn.openai.com/contributions/gpt-4v.pdf).
+For all results (108 cases), please refer the [arxiv paper](https://arxiv.org/abs/2312.15011).
 
 
 
