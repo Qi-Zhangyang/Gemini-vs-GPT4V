@@ -1,4 +1,4 @@
-# Gemini <img src="logo/Gemini.png" alt="Gemini" width="30" height="30"> vs <img src="logo/GPT-4V.png" alt="GPT-4V" width="30" height="30">: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases
+# Gemini <img src="logo/Gemini.png" alt="Gemini" width="30" height="30"> vs GPT-4V <img src="logo/GPT-4V.png" alt="GPT-4V" width="30" height="30">: A Preliminary Comparison and Combination of Vision-Language Models Through Qualitative Cases
 
 
 
